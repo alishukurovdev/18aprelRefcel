@@ -1,0 +1,15 @@
+C:\Users\ca.r214.11\Desktop\SahindiBratva\bin\Debug\net6.0\SahindiBratva.exe
+C:\Users\ca.r214.11\Desktop\SahindiBratva\bin\Debug\net6.0\SahindiBratva.deps.json
+C:\Users\ca.r214.11\Desktop\SahindiBratva\bin\Debug\net6.0\SahindiBratva.runtimeconfig.json
+C:\Users\ca.r214.11\Desktop\SahindiBratva\bin\Debug\net6.0\SahindiBratva.dll
+C:\Users\ca.r214.11\Desktop\SahindiBratva\bin\Debug\net6.0\SahindiBratva.pdb
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.csproj.AssemblyReference.cache
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.AssemblyInfoInputs.cache
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.AssemblyInfo.cs
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.dll
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\refint\SahindiBratva.dll
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.pdb
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\SahindiBratva.genruntimeconfig.cache
+C:\Users\ca.r214.11\Desktop\SahindiBratva\obj\Debug\net6.0\ref\SahindiBratva.dll

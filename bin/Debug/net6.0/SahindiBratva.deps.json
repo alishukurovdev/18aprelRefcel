@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SahindiBratva/1.0.0": {
+        "runtime": {
+          "SahindiBratva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SahindiBratva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
